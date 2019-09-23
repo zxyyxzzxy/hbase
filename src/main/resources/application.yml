@@ -1,0 +1,5 @@
+hbase:
+  zookeeper:
+    quorum: master
+    property:
+      clientPort: 2181
